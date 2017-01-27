@@ -9,15 +9,9 @@ package firstgit;
  *
  * @author agaudynski
  */
-public class FirstGit {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Happy Duck");
-        
-       int x = 6;
-    }
+public class NewClass {
+    
+    private int number;
+    private int number2;
     
 }
